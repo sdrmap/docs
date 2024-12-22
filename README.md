@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://adsb.chaos-consulting.de/" target="_blank">
-    <img style="width: 50%" src="https://github.com/chaos-consulting/adsberry/raw/master/adsb_finallx.png" alt="https://adsb.chaos-consulting.de/"><br/>
+  <a href="https://sdrmap.org/" target="_blank">
+    <img style="width: 50%" src="https://raw.githubusercontent.com/sdrmap/docs/refs/heads/master/sdrmap_v4.png" alt="https://sdrmap.org/"><br/>
   </a>
     A hobbyist aircraft and ship tracking network</br>
-    <a href="https://adsb.chaos-consulting.de/" target="_blank">https://adsb.chaos-consulting.de/</a>
+    <a href="https://sdrmap.org/" target="_blank">https://sdrmap.org/</a>
 </p>
 
 ## About us
@@ -17,12 +17,12 @@
 * We are very focused on the feeder stations and we do have a lot of features geared towards them
 
 ## Getting started
-* Check out our <a href="https://github.com/chaos-consulting/adsberry/wiki">wiki</a> to learn more about building an ADS-B and AIS receiver station
-* If you already have a station you can <a href="https://github.com/chaos-consulting/adsberry/wiki/3.-Feeding">start feeding today</a>
+* Check out our <a href="https://github.com/sdrmap/sdrmapfeeder/wiki">wiki</a> to learn more about building an ADS-B and AIS receiver station
+* If you already have a station you can <a href="https://github.com/sdrmap/sdrmapfeeder/wiki/3.-Feeding">start feeding today</a>
 
 <p align="center">
-  <a href="https://adsb.chaos-consulting.de/" target="_blank">
-    <img style="width: 100%" src="https://raw.githubusercontent.com/chaos-consulting/adsberry/master/screenshots/webui.png" alt="https://adsb.chaos-consulting.de/"><br/>
+  <a href="https://sdrmap.org/" target="_blank">
+    <img style="width: 100%" src="https://raw.githubusercontent.com/sdrmap/docs/refs/heads/master/screenshots/webui.png" alt="https://sdrmap.org/"><br/>
   </a>
-    <a href="https://adsb.chaos-consulting.de/" target="_blank">https://adsb.chaos-consulting.de/</a>
+    <a href="https://sdrmap.org/" target="_blank">https://sdrmap.org/</a>
 </p>
