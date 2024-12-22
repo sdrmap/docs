@@ -17,7 +17,7 @@
 * We are very focused on the feeder stations and we do have a lot of features geared towards them
 
 ## Getting started
-* Check out our <a href="https://github.com/sdrmap/sdrmapfeeder/wiki">wiki</a> to learn more about building an ADS-B and AIS receiver station
+* Check out our [wiki](https://github.com/sdrmap/docs/wiki) to learn more about building an ADS-B and AIS receiver station
 * If you already have a station you can <a href="https://github.com/sdrmap/sdrmapfeeder/wiki/3.-Feeding">start feeding today</a>
 
 <p align="center">
