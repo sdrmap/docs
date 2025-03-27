@@ -7,12 +7,12 @@
 </p>
 
 ## About us
-* We are a bunch of hobbyists containing of aviation enthusiasts, ham radio operators, ...
-* We are interestet in everyting moving no matter if it is planes, ships, trains or satelites
-* We build our own aircraft and ship tracking network
+* We are a bunch of hobbyists consisting of aviation enthusiasts, ham radio operators, ...
+* We are interested in everything moving no matter if it is planes, ships, trains or satellites
+* We built our own aircraft and ship tracking network
 
 ## About our network
-* We are noncomercial
+* We are non-commercial
 * We develop our own application and continue to modify it to our liking
 * We are very focused on the feeder stations and we do have a lot of features geared towards them
 
